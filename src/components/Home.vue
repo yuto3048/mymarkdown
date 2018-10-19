@@ -6,7 +6,7 @@
 </templete>
 <script>
 export default {
-  name: "hoge",
+  name: "home",
   data() {
     return {
       msg: "Welcome to MyMarkdown"
