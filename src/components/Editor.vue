@@ -8,7 +8,7 @@
 export default {
   name: "editor",
   data() {
-    returnn {};
+    return {};
   }
 };
 </script>
