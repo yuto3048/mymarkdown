@@ -1,5 +1,6 @@
 .DS_Store
 .firebase
+.firebase/*
 node_modules/
 dist/*
 !dist/index.html
@@ -8,6 +9,7 @@ yarn-error.log
 
 # Editor directories and files
 .idea
+*.cache
 *.suo
 *.ntvs*
 *.njsproj
