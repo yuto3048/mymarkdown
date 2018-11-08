@@ -1,6 +1,5 @@
 .DS_Store
-.firebase
-.firebase/*
+.firebase/
 node_modules/
 dist/*
 !dist/index.html
